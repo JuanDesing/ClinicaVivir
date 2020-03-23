@@ -1,0 +1,5 @@
+id area	 Nombre del area 	 Descripción 
+123	cardiologia	djhfhjdffd
+234	neurologia	dfvsdfvsdf
+345	radiologia	sdfvsdfdvd
+456	Osmeotologia	sdfkjgskdfgdsfg

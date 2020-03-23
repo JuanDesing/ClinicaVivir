@@ -1,0 +1,14 @@
+
+
+	FACTURA
+
+	Nombre: Aracanjel
+	Cédula: 1092388501
+	Fecha en que ingresó: Sun Jun 30 13:45:55 COT 2019
+	Fecha en que salió: Sat Jul 06 00:00:00 COT 2019
+	Estado en que ingreso: En tratamiento
+	Doctor asignado: david corzo
+
+	Dias que duró en la clínica: 6
+
+	VALOR A CANCELAR: 600000.0
